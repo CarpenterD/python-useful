@@ -16,4 +16,4 @@ This file will automatically make useful and totally legitimate improvements to 
 
 ### Testimonials
 Here is a testimonial for the `useful` module.
-> This is a *very* useful and *irrefutably* legitimate. 10/10 would use again! - A legitimate programmer
+> This module is *very* useful and *irrefutably* legitimate. 10/10 would use again! - A legitimate programmer
